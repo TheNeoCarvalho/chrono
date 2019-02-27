@@ -1,3 +1,3 @@
 # Chrono
 ## App criado em react  para fins de estudos.
-### Cronomtro
+### Cronometro
